@@ -18,8 +18,13 @@ footer{
     padding: 40px;
     margin-top: 40px;
 }
+.headingPrimary{
+    color: #ff1c42;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
 
-@media(max-width: 768px ){      /* media querry specifications*/
+@media(max-width: 768px ){      
     body{
         background-color: #a6fbf1;
         color: #000;
